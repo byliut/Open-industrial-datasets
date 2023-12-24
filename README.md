@@ -56,6 +56,8 @@ https://aigym.airbus.com/
 Minute-wise voltage data for some years (2014-2019) and several users in India. A '0' voltage reading means a power outage and missing data should be interpreted as unavailable data and not as interruption.
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CLLZZM
+        
+        
 
 ### VSB Power Line Fault Detection Dataset
 This dataset is linked to a Kaggle competition to detect partial discharge patterns in signals acquired from these medium voltage overhead power lines. 
@@ -73,4 +75,5 @@ The generation of data-driven prognostics models requires the availability of da
 
 https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan-2
 
-
+## IEEE dataset
+https://ieee-dataport.org/
